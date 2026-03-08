@@ -1,37 +1,35 @@
-# 👋 Greetings, I'm @CannaEngineer
+Systems engineer and full-stack developer based in Pennsylvania.
 
-Welcome to my greenhouse of ideas, where engineering and the flourishing world of Cannabis meet through a spectrum of code. A hub for innovative software projects tailored to empower and advance the cannabis industry.
-
-## 👀 About Me
-
-As a passionate technologist and Cannabis advocate, I blend my knowledge of agriculture, botany, and engineering with modern software development to craft solutions that not only automate and optimize Cannabis cultivation and production but also aim to educate and simplify the consumer experience.
-
-## 🌱 I’m Currently Cultivating
-
-- Expertise in IoT for smart greenhouse systems.
-- Advanced analytics for strain genealogy and potency predictions.
-- Blockchain for transparent and secure supply chain tracking.
-
-## 💞️ Collaboration Opportunities
-
-I'm keen on connecting with like-minded pioneers in both technology and horticulture. If you are:
-
-- A developer with a knack for Python, HTML, CSS, JS, or any language that seeds innovation.
-- A grower or a botanist with valuable insights into Cannabis cultivation.
-- An entrepreneur looking to blend tech with Cannabis.
-
-Let's unite our expertise to cultivate state-of-the-art projects!
-
-## 📫 How to Sow Seeds of Connection
-
-Reach out to me here on GitHub - let's get to the root of innovation.
-
-## 😄 Pronouns
-
-He/Him/His
-
-## ⚡ Fun Fact
-
-Did you know that the Cannabis plant can be used to create biofuels, building materials, and even as a potent soil cleaner? Yes, it's not just about the buzz!
+I build software at the intersection of applied AI, operational systems, and agriculture technology. Most of what I work on is practical by design — tools for industries where software has historically lagged behind the actual work.
 
 ---
+
+## What I'm Building
+
+- AI-powered planning and design platforms with interactive map tools, plant/asset catalogs, and LLM-driven recommendations
+- White-label SaaS e-commerce infrastructure for agricultural suppliers
+- Industrial maintenance intelligence systems using RAG pipelines and LLM routing
+- IoT control systems and web dashboards for hardware monitoring and automation
+
+---
+
+## Technical Focus
+
+- **Full-stack**: Next.js 14, TypeScript, React, Tailwind CSS
+- **Data**: Turso/libSQL, PostgreSQL, vector databases
+- **AI/ML**: Anthropic API, OpenRouter, Ollama (local inference), agentic workflow design
+- **Infrastructure**: Vercel, Docker, Ubuntu Server, Tailscale, self-hosted AI tooling
+- **Embedded/IoT**: ESP8266/NodeMCU, MQTT, custom dashboards for hardware control
+- **Background**: 11+ years in industrial maintenance, electrical systems, and HVAC
+
+---
+
+## Where I'm Headed
+
+Building tighter integrations between AI systems and real-world operational environments — farms, facilities, and field operations. Specifically interested in agentic systems, LLM-native planning interfaces, and self-hosted AI infrastructure for data-sensitive use cases.
+
+---
+
+## Let's Connect
+
+If you're working in applied AI, ag-tech, or IoT and want to collaborate or talk shop, reach out.
